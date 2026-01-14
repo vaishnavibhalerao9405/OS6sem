@@ -1,3 +1,5 @@
+//Write a shell script to find factorial of number
+
 #!/bin/bash
 
 echo "Enter a number:"
