@@ -1,3 +1,4 @@
+//Write a shell script to find sum of digits.
 #!/bin/bash
 
 echo "Enter a number:"
